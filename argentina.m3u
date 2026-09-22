@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://www.epg.best/ed_ar.xml.gz"
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://i.imgur.com/79Z6z6t.png" group-title="Argentina",Televisión Pública
+https://live-out.telecom.com.ar/tvpublica/live/tvpublica.isml/tvpublica.m3u8
+
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/Xw3S24P.png" group-title="Noticias",Todo Noticias (TN)
+https://live-out.telecom.com.ar/tn/live/tn.isml/tn.m3u8
+
+#EXTINF:-1 tvg-id="LNMas.ar" tvg-name="LN+" tvg-logo="https://i.imgur.com/KqW4V1U.png" group-title="Noticias",LN+ (La Nación Más)
+https://lnmas-live.vodgc.net/hls/live/lnmas/lnmas/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/8m4F02j.png" group-title="Noticias",C5N
+https://live-out.telecom.com.ar/c5n/live/c5n.isml/c5n.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/t4h8w1K.png" group-title="Noticias",A24
+https://stream.grupoamerica.com.ar/a24/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/J3s8K1s.png" group-title="Noticias",Canal 26
+https://diario26-live.vodgc.net/hls/live/diario26/diario26/index.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/4gW5f1L.png" group-title="Noticias",Crónica TV
+https://live-out.telecom.com.ar/cronicatv/live/cronicatv.isml/cronicatv.m3u8
+
+#EXTINF:-1 tvg-id="CanalDelCiudad.ar" tvg-name="Canal de la Ciudad" tvg-logo="https://i.imgur.com/1sQ8R3t.png" group-title="Interés General",Canal de la Ciudad
+https://g3.mc-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" tvg-logo="https://i.imgur.com/5w2R7kP.png" group-title="Aire",Net TV
+https://streaming.nettv.com.ar/live/nettv.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe Rosario" tvg-logo="https://i.imgur.com/9k1Z8w2.png" group-title="Interior",Telefe Rosario (Canal 5)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
