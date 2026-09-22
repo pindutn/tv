@@ -1,25 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina",Televisión Pública (YouTube)
-https://www.youtube.com/@TVPublicaArgentina/live
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/t4h8w1K.png" group-title="Noticias",A24
+https://www.youtube.com/watch?v=ArKbAx1K-2U
 
-#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN" group-title="Noticias",Todo Noticias - TN (YouTube)
-https://www.youtube.com/@todonoticias/live
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/Xw3S24P.png" group-title="Noticias",Todo Noticias (TN)
+https://www.youtube.com/watch?v=1-S9gHh_d2s
 
-#EXTINF:-1 tvg-id="LNMas.ar" tvg-name="LN+" group-title="Noticias",LN+ La Nación (YouTube)
-https://www.youtube.com/@lanacion/live
+#EXTINF:-1 tvg-id="LNMas.ar" tvg-name="LN+" tvg-logo="https://i.imgur.com/KqW4V1U.png" group-title="Noticias",LN+ (La Nación Más)
+https://www.youtube.com/watch?v=5q751W9Qc6o
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Noticias",C5N (YouTube)
-https://www.youtube.com/@C5N/live
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" tvg-logo="https://i.imgur.com/8m4F02j.png" group-title="Noticias",C5N
+https://www.youtube.com/watch?v=0h9V6N86j9I
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias",A24 (YouTube)
-https://www.youtube.com/@A24noticias/live
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/4gW5f1L.png" group-title="Noticias",Crónica TV
+https://www.youtube.com/watch?v=5o2ZtQ2Z2tQ
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Noticias",Canal 26 (YouTube)
-https://www.youtube.com/@canal26/live
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://i.imgur.com/79Z6z6t.png" group-title="Argentina",Televisión Pública
+https://www.youtube.com/watch?v=9_v9Q9Q9Q9Q
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Noticias",Crónica TV (YouTube)
-https://www.youtube.com/@cronicatv/live
-
-#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" group-title="Noticias",IP Noticias (YouTube)
-https://www.youtube.com/@IPNoticias/live
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/J3s8K1s.png" group-title="Noticias",Canal 26
+https://www.youtube.com/watch?v=3-3-3-3-3-3
