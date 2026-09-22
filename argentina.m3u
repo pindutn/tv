@@ -1,16 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina",Televisión Pública
-https://tvpublica-live.rcnet.com.ar/tvpublica/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina",Televisión Pública (YouTube)
+https://www.youtube.com/@TVPublicaArgentina/live
 
-#EXTINF:-1 tvg-id="LNMas.ar" tvg-name="LN+" group-title="Noticias",LN+ (La Nación Más)
-https://lnmas-live.vodgc.net/hls/live/lnmas/lnmas/index.m3u8
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN" group-title="Noticias",Todo Noticias - TN (YouTube)
+https://www.youtube.com/@todonoticias/live
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Noticias",Canal 26
-https://diario26-live.vodgc.net/hls/live/diario26/diario26/index.m3u8
+#EXTINF:-1 tvg-id="LNMas.ar" tvg-name="LN+" group-title="Noticias",LN+ La Nación (YouTube)
+https://www.youtube.com/@lanacion/live
 
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" group-title="Aire",Net TV
-https://streaming.nettv.com.ar/live/nettv.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Noticias",C5N (YouTube)
+https://www.youtube.com/@C5N/live
 
-#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" group-title="Noticias",IP Noticias
-https://live.ip.style/live/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias",A24 (YouTube)
+https://www.youtube.com/@A24noticias/live
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Noticias",Canal 26 (YouTube)
+https://www.youtube.com/@canal26/live
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Noticias",Crónica TV (YouTube)
+https://www.youtube.com/@cronicatv/live
+
+#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" group-title="Noticias",IP Noticias (YouTube)
+https://www.youtube.com/@IPNoticias/live
